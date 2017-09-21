@@ -107,7 +107,7 @@ class LinkedList:
         return -1
 
     def length():
-        return self.length()
+        return self.length
 
     def __str__(self):
         temp = self.head
