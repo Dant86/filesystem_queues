@@ -106,7 +106,7 @@ class LinkedList:
             idx += 1
         return -1
 
-    def length():
+    def __len__():
         return self.length
 
     def __str__(self):
